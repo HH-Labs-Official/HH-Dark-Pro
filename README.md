@@ -4,7 +4,7 @@
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/hh-labs.hh-dark-pro?style=flat-square&color=34D399)
 ![License](https://img.shields.io/github/license/HH-Labs-Official/HH-Dark-Pro?style=flat-square&color=F472B6)
 
-**HH Dark Pro** is a premium-feel, super matte dark theme meticulously crafted for modern developers. Designed by **HH-Labs-Official**, it focuses on reducing eye strain while making your syntax pop with vibrant, high-contrast colors.
+**HH Dark Pro** is a premium-feel, super matte dark theme meticulously crafted for modern developers. Designed by **HH-Labs**, it focuses on reducing eye strain while making your syntax pop with vibrant, high-contrast colors.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 🚀 About HH-Labs
 
-**HH-Labs-Official** is dedicated to building high-quality developer tools, themes, and resources to enhance productivity. This theme is our first step towards a complete ecosystem for the modern coder.
+**HH-Labs** is dedicated to building high-quality developer tools, themes, and resources to enhance productivity. This theme is our first step towards a complete ecosystem for the modern coder.
 
 * **GitHub:** [@HH-Labs-Official](https://github.com/HH-Labs-Official)
 * **Developer:** Hasnain Mahmood
