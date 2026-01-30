@@ -11,10 +11,10 @@
 ## 🎨 Preview
 
 ### Full Workspace View
-![Full Workspace View](images/screenshot.png)
-
-### Syntax Highlighting (Python, JS, C++)
 ![Syntax Highlighting](images/preview.png)
+
+### Syntax Highlighting (Python)
+![Full Workspace View](images/screenshot.png)
 
 ---
 
