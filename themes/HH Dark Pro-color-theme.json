@@ -3,7 +3,6 @@
   "displayName": "HH Dark Pro",
   "description": "A clean, modern dark theme for all programming languages.",
   "version": "0.0.1",
-  "icon": "icon.png",
   "colors": {
     // Background & UI - Super Matte Dark
     "editor.background": "#0A0910",

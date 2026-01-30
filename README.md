@@ -1,16 +1,56 @@
-# hh-dark-pro README
+# HH Dark Pro 🚀
 
-## Working with Markdown
+![Extension Version](https://img.shields.io/visual-studio-marketplace/v/hh-labs.hh-dark-pro?style=flat-square&color=A78BFA)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/hh-labs.hh-dark-pro?style=flat-square&color=34D399)
+![License](https://img.shields.io/github/license/HH-Labs-Official/HH-Dark-Pro?style=flat-square&color=F472B6)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**HH Dark Pro** is a premium-feel, super matte dark theme meticulously crafted for modern developers. Designed by **HH-Labs-Official**, it focuses on reducing eye strain while making your syntax pop with vibrant, high-contrast colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## 🎨 Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Full Workspace View
+![Full Workspace View](images/screenshot.png)
 
-**Enjoy!**
+### Syntax Highlighting (Python, JS, C++)
+![Syntax Highlighting](images/preview.png)
+
+---
+
+## ✨ Key Features
+
+* **Super Matte Palette:** A deep `#0A0910` background that eliminates distractions.
+* **Vibrant Syntax:** Carefully selected colors for Functions (`#A78BFA`), Keywords (`#F472B6`), and Strings (`#34D399`).
+* **Professional UI:** Clean sidebars, subtle borders, and an aesthetic activity bar.
+* **Universal Language Support:** Optimized for Python, JavaScript, TypeScript, React, C++, SQL, HTML/CSS, and more.
+* **Accessible:** High contrast ratios for better readability during long coding sessions.
+
+---
+
+## 🛠 Installation
+
+1.  Open **Visual Studio Code**.
+2.  Go to the **Extensions** view (`Ctrl+Shift+X`).
+3.  Search for `HH Dark Pro`.
+4.  Click **Install**.
+5.  Navigate to `File > Preferences > Theme > Color Theme` and select **HH Dark Pro**.
+
+---
+
+## 🚀 About HH-Labs
+
+**HH-Labs-Official** is dedicated to building high-quality developer tools, themes, and resources to enhance productivity. This theme is our first step towards a complete ecosystem for the modern coder.
+
+* **GitHub:** [@HH-Labs-Official](https://github.com/HH-Labs-Official)
+* **Developer:** Hasnain Mahmood
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**Crafted with ❤️ for the Developer Community.**
