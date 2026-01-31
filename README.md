@@ -11,10 +11,10 @@
 ## 🎨 Preview
 
 ### Full Workspace View
-![Syntax Highlighting](images/preview.png)
-
-### Syntax Highlighting (Python)
 ![Full Workspace View](images/screenshot.png)
+
+### Syntax Highlighting (Modern Languages)
+![Syntax Highlighting](images/preview.png)
 
 ---
 
@@ -38,12 +38,12 @@
 
 ---
 
-## 🚀 About HH-Labs
+## 🚀 Connect & Learn
 
-**HH-Labs** is dedicated to building high-quality developer tools, themes, and resources to enhance productivity. This theme is our first step towards a complete ecosystem for the modern coder.
+**HH-Labs** is dedicated to building high-quality developer tools and resources. Follow our journey and learn coding with us:
 
-* **GitHub:** [@HH-Labs-Official](https://github.com/HH-Labs-Official)
-* **Developer:** Hasnain Mahmood
+* **📺 YouTube:** [HH Tech Services](https://youtube.com/@hh_tech_services?si=YOMMangXmb2O0SJK) — Tutorials on Coding & Tech.
+* **📂 GitHub:** [@HH-Labs-Official](https://github.com/HH-Labs-Official) — Open source projects and themes.
 
 ---
 
@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-**Crafted with ❤️ for the Developer Community.**
+**Crafted with ❤️ by HH-Labs for the Developer Community.**
